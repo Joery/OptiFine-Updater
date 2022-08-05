@@ -2,7 +2,7 @@ echo off
 cls
 
 :menu
-echo OptiFine Updater 0.1 by MrJoery
+echo OptiFine Updater 0.1 by Joery
 echo www.github.com/Joery
 echo.
 echo Place the OptiFine JAR file into this directory and
